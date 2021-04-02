@@ -28,5 +28,9 @@ body {
 }
 
 #marqueeStyle {
-    color: azure;
+   width:100%;
+    direction:right; 
+    height:100px;
+    color:azure; 
+    font-size:120%; 
 }
