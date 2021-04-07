@@ -57,8 +57,7 @@ travel_mainDiv hr {
     width: 100%;
 }
 
-.travel_mainDiv h5,
-.travel_mainDiv p {
+.travel_mainDiv h5, .travel_mainDiv p {
     margin-left: 20px;
 }
 
